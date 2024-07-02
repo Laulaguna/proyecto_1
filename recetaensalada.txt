@@ -1,0 +1,5 @@
+lechuga
+tomates
+maiz 
+cebolla
+manzana
