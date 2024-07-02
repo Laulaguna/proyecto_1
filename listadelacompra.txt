@@ -9,3 +9,7 @@ ajos
 lechuga
 maiz
 manzana
+ron
+naranja
+grosella
+hielo
