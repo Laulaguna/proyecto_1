@@ -6,3 +6,6 @@ aceite
 tomates
 pepinos
 ajos
+lechuga
+maiz
+manzana
